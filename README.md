@@ -9,5 +9,7 @@ I have used Python for this implementation. The challenge I faced was extracting
 Hence, I have written this blog as a two-part series, to discuss how I overcame the challenge of extracting data from a JavaScript tag. I hope my knowledge and experience will help you as well.
 
 Please find the links for the article below.
+
 Part 1: shorturl.at/yCKNS
+
 Part 2: shorturl.at/fMOS1
